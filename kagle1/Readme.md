@@ -15,7 +15,7 @@ Proses pembersihan data yang dilakukan pada dataset awal (`data_praktikum_analis
 - **Pembersihan Data Kosong**: Menghapus baris yang memiliki nilai kosong (`NaN`) pada kolom `Total_Sales` karena merupakan variabel target utama.
 - **Pembersihan Anomali**: Memastikan tidak ada produk dengan nilai `Price_Per_Unit` negatif.
 - **Konversi Tipe Data**: Mengubah kolom `Order_Date` menjadi tipe `datetime` untuk memudahkan analisis *Recency* (RFM).
-- **Hasil Akhir**: Tersisa 143 baris data yang bersih dan siap dianalisis.
+
 
 ## 3. Insights
 Berikut adalah *insights* yang didapatkan dari analisis dan visualisasi data:
