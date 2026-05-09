@@ -22,7 +22,7 @@ Berikut adalah *insights* yang didapatkan dari analisis dan visualisasi data:
 
 ### A. Identifikasi Underperformer (Harga Tinggi, Volume Rendah)
 Berdasarkan scatter plot, rata-rata harga produk (`Price_Per_Unit`) adalah **Rp 1.040.643**. Terdapat beberapa produk di kuadran kanan bawah (harga jauh di atas rata-rata, namun *Quantity* penjualannya sangat rendah, misalnya hanya laku 1 atau 2 unit). Produk ini menjadi beban arus kas.
-![Underperformer](tugas1_underperformer.png)
+
 
 ### B. Segmentasi Pelanggan (RFM Analysis)
 Telah dilakukan *RFM Analysis* terhadap pelanggan. Contoh pelanggan terbaik kita (RFM Group: **523**) yang baru-baru ini berbelanja (Recency kecil/skor 5) dan menyumbang *Monetary* yang cukup baik. Pelanggan dikelompokkan ke skor 1-5 untuk masing-masing pilar. Daftar lengkap RFM bisa dilihat pada `hasil_rfm.csv`.
